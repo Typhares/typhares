@@ -1,4 +1,4 @@
-This repo will become a GitHub Homepage 👋
+This repo will become a GitHub Homepage
 The Homepage will become a Portfolio
 The portfolio will host 2 video files
 <!--
